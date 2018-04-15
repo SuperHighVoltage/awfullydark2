@@ -27,9 +27,17 @@
     transform: rotate(15deg) scale(1);
     filter: drop-shadow(3px 3px 6px #ffcc00);
   }
-  50% {
+  25% {
     transform: rotate(-15deg) scale(1.2);
-    filter: drop-shadow(-3px 3px 3px #ff9933);
+    filter: drop-shadow(-3px 3px 6px #ffcc00);
+  }
+  50% {
+    transform: rotate(15deg) scale(1);
+    filter: drop-shadow(-3px -3px 6px #ffcc00);
+  }
+  75% {
+    transform: rotate(-15deg) scale(1.2);
+    filter: drop-shadow(3px -3px 6px #ffcc00);
   }
   100% {
     transform: rotate(15deg) scale(1);
