@@ -1,17 +1,17 @@
 .votebutton:hover {
-  animation: ratingDance 2s infinite;
+  animation: ratingDance 4s infinite;
 }
 .threadicon:hover {
-  animation: ratingDance 2s infinite;
+  animation: ratingDance 4s infinite;
 }
  .navbar-item.logo:hover {
-  animation: ratingDance 2s infinite;
+  animation: ratingDance 4s infinite;
 }
 .forumicon:hover {
-  animation: ratingDance 2s infinite;
+  animation: ratingDance 4s infinite;
 }
 .mdi-toolbar:hover {
-  animation: ratingDance 2s infinite;
+  animation: ratingDance 4s infinite;
 }
 
 .votes .votelist .voteinfo {
